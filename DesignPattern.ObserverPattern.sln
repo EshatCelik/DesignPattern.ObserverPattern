@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31410.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPattern.ObserverPattern", "DesignPattern.ObserverPattern\DesignPattern.ObserverPattern.csproj", "{BF7239D8-E648-46A9-92B9-A515655DDA9E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPattern.ObserverPattern", "DesignPattern.ObserverPattern\DesignPattern.ObserverPattern.csproj", "{BF7239D8-E648-46A9-92B9-A515655DDA9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPattern.ObserverPatternAmazon", "DesignPattern.ObserverPatternAmazon\DesignPattern.ObserverPatternAmazon.csproj", "{267EB263-E78A-4A87-B4FC-D449151AF582}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{BF7239D8-E648-46A9-92B9-A515655DDA9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF7239D8-E648-46A9-92B9-A515655DDA9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF7239D8-E648-46A9-92B9-A515655DDA9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{267EB263-E78A-4A87-B4FC-D449151AF582}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{267EB263-E78A-4A87-B4FC-D449151AF582}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{267EB263-E78A-4A87-B4FC-D449151AF582}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{267EB263-E78A-4A87-B4FC-D449151AF582}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
